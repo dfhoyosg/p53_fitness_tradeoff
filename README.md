@@ -1,4 +1,4 @@
-This repository contains code for the paper:
+This repository contains code and data for the paper:
 
 *A model of mutant p53 fitness defines fundamental trade-offs between oncogenic potential and immunogenicity of tumor-driver mutations*
 
