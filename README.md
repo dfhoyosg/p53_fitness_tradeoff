@@ -4,7 +4,7 @@ This repository contains code and data for the paper:
 
 This code runs the fitness model for p53. This can be run by running:
 
-`python3 run_model.py ../example/output/`
+`python3 run_model.py ../example_output/`
 
 For any questions or comments please contact:
 
