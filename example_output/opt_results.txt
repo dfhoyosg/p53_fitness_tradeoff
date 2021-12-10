@@ -1,5 +1,5 @@
 Optimizing_on=cross_entropy
-time_taken_(sec)=4.732342004776001
+time_taken_(sec)=4.129216194152832
 success=True
 message=CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL
 num_iter=16
