@@ -1,6 +1,6 @@
 This repository contains code and data for the paper:
 
-*A model of mutant p53 fitness defines fundamental trade-offs between oncogenic potential and immunogenicity of tumor-driver mutations*
+*Fundamental immune-oncogenicity trade-offs define driver mutation fitness*
 
 This code runs the fitness model for p53. This can be run by running:
 
