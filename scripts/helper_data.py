@@ -46,7 +46,7 @@ class helper_data(object):
         '''
         ordered_muts = self.ordered_muts()
         obs_muts_indices = self.obs_muts_indices()
-        obs_muts = ordered_muts[obs_muts_indices]
+        obs_muts_indices = ordered_muts[obs_muts_indices]
         return obs_muts
 
     def obs_freqs(self, mut_indices):
